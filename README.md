@@ -23,10 +23,10 @@ It lets users add, complete, and delete tasks — all data is saved automaticall
 ---
 
 ## 🚀 Live Demo
-🔗 [View on GitHub Pages](https://yourusername.github.io/todo-list-website)
+🔗 [View on GitHub Pages](https://michaelideba0.github.io/todo-list-website)
 
-*(Replace `yourusername` with your GitHub name after uploading.)*
+
 
 ---
 
-## 📁 Project Structure
+
